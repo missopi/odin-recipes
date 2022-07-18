@@ -1,2 +1,2 @@
 # odin-recipes
-I'm creating a recipe website using HTML. It will have an index page with links to some recipes.  This project is to practice using HTML for creating links, lists, and attaching images.  I also ned to practice writing commit messages whenever i make any meaningful changes.
+This will be a recipe website. This project is to practice using HTML to create a website that uses links, lists, and attaching images.  I also need to practice writing commit messages whenever I make any meaningful changes.

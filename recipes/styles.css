@@ -11,6 +11,7 @@ div.gallery {
 div.gallery img {
     width: 100%;
     height: auto;
+    border-radius: 8px;
   }
 
 div.desc {
@@ -27,7 +28,7 @@ div.desc {
 }
 
 .recipe.recipe-name {
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
 }
 
@@ -84,6 +85,7 @@ div.desc {
     margin-right: auto;
     width: 30%;
     border: 3px solid rgb(92, 92, 92);
+    border-radius: 8px;
 }
 
 .picture.ramen {

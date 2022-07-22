@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(243, 242, 241);
+}
+
 .recipe {
     color: rgb(92, 92, 92);
     text-align: center;

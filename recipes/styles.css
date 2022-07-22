@@ -16,10 +16,14 @@
 
 .recipe.ingredients {
     margin-left:80px;
-    width: 50%;
+    width: 20%;
     text-align: left;
     position: absolute;
     top: 185px;
+}
+
+.recipe.ingredients.ingredients-title {
+    text-align: center;
 }
 
 .recipe.ingredients.ragu {
@@ -36,6 +40,14 @@
 
 .recipe.ingredients.pasta.pasta-list {
     top: 445px;
+}
+
+.recipe.ingredients.paella-list {
+    top: 240px
+}
+
+.recipe.ingredients.ramen-list {
+    top: 220px
 }
 
 .recipe.steps {

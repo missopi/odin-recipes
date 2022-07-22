@@ -15,9 +15,27 @@
 }
 
 .recipe.ingredients {
-    margin:auto;
+    margin-left:80px;
     width: 50%;
     text-align: left;
+    position: absolute;
+    top: 185px;
+}
+
+.recipe.ingredients.ragu {
+    top: 215px;
+}
+
+.recipe.ingredients.ragu.ragu-list {
+    top: 240px;
+}
+
+.recipe.ingredients.pasta {
+    top: 420px;
+}
+
+.recipe.ingredients.pasta.pasta-list {
+    top: 445px;
 }
 
 .recipe.steps {

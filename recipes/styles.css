@@ -2,6 +2,23 @@ body {
     background-color: rgb(243, 242, 241);
 }
 
+div.gallery {
+    margin: 10px;
+    float: left;
+    width: 400px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+div.desc {
+    color: rgb(92, 92, 92);
+    text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
 .recipe {
     color: rgb(92, 92, 92);
     text-align: center;

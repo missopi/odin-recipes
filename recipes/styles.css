@@ -16,17 +16,19 @@ div.gallery img {
 div.desc {
     color: rgb(92, 92, 92);
     text-align: center;
-    font-family: "Trebuchet MS", sans-serif;
+    font-family: Helvectica, sans-serif;
+    font-weight: bold;
 }
 
 .recipe {
     color: rgb(92, 92, 92);
     text-align: center;
-    font-family: "Trebuchet MS", sans-serif;
+    font-family: Helvectica, sans-serif;
 }
 
 .recipe.recipe-name {
     font-size: 50px;
+    font-weight: bold;
 }
 
 .recipe.description {
